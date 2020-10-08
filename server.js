@@ -1,12 +1,19 @@
-var express = require('express');
-var app=express();
-var server=app.listen(3000);
+const http = require('http')
+const express = require('express');
+const app=express();
+app.set('port', '3000')
+console.log("My socket server is running");
+const server = http.createServer(app)
+server.on('listening', () => {
+ console.log('Listening on port 3000')
+})
+server.listen('3000')
 app.use(express.static('public'));
 
-console.log("My socket server is running");
 
-var socket = require('socket.io');
-var io=socket(server);
+
+const socket = require('socket.io');
+const io=socket(server);
 io.sockets.on('connection', newConnection);
 function newConnection(socket)
 {
@@ -16,4 +23,6 @@ function newConnection(socket)
         socket.broadcast.emit('mouse',data);
         console.log(data);
     }
+    socket.on('disconnect', () => console.log('Client has disconnected'))
+
 }

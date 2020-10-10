@@ -3,10 +3,107 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/styles.css" />
+    <title>Let's Meet : Home Page</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <style type="text/css">
+    	*{
+    		padding: 0px;
+    		margin: 0px;
+    	}
+        nav{
+            background-color: rgb(240,248,255);
+            padding: 1rem;
+            position: relative;
+        }
+        
+         h2{
+            color: #696969;
+            font-family: 'Roboto', sans-serif;
+        display: inline;
+            margin-left: 7rem;
+             opacity: 80%;
+        }
+        .links1{
+            position: absolute;
+            right: 200px;
+            top: 0px;
+            bottom: 0px;
+        }
+        .links1 li{
+            display:inline-block;
+            margin:20px;
+/*            border: 2px solid black;*/
+        
+        }
+        .links1 li a{
+            text-decoration: none;
+            color:black;
+            font-family: 'Roboto', sans-serif;
+            
+        }
+        section{
+            margin-top: 0;
+            background: url(picture2.jpeg);
+            background-repeat: no-repeat;
+            background-size: cover;
+          border: 0.1px solid black;
+            height: 550px;
+        }
+        section .center{
+            margin-top: 10px;
+            color:#ffffff;
+            font-family:'Roboto',sans-serif;
+            font-size:20px;
+        }
+        .btn
+        {
+            
+/*            border:2px solid black;*/
+            margin-top: 10px;
+            
+        }
+        .btn li{
+            background-color: #ffffff;
+/*            border: 2px solid black;*/
+            display: inline-block;
+            
+        }
+        .btn li a{
+            text-decoration: none;
+             color: #696969;
+            font-family: 'Roboto', sans-serif;
+            display: block;
+            font-size:15px;
+            padding: 0.8rem;
+            
+        }
+
+    </style>
 </head>
 <body>
   <button onclick="window.location.href='html/board.html';">
     Click Here
   </button>
+  <nav>
+    <h2>Lets Meet</h2>
+    <ul class="links1">
+        <li><a href="#">About Lets Meet</a></li>
+        <li><a href="#">Register</a></li>
+        <li><a href="#">Login</a></li>
+        
+    </ul>  
+    
+</nav>
+<section>
+    <h1 align="center" style="color:#ffffff;font-family:Roboto,sans-serif;font-size:50px;margin-top:150px;">Lets Meet</h1>
+    <div align="center" class="center">Bring All Together</div>
+    <hr style="margin-top:15px;size:10;width:25%;margin-left:38%;">
+    <ul class="btn">
+        <li style="margin-left:400px;"><a href="#">START A QUICK SESSION</a></li>
+        <li style="margin-left:10px;"><a href="#">JOIN A GROUP</a></li>
+        <li style="margin-left:10px;"><a href="#">PASSWORD PROTECTED ROOM</a></li>
+    </ul>
+</section>
+
 </body>
 </html>

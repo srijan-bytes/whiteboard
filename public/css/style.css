@@ -122,3 +122,6 @@ input.call-picker {
   button {
     margin-left: 1rem;
   }
+  #canvas {
+    border: 2px solid black;
+  }

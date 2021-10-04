@@ -1,6 +1,18 @@
 # whiteboard
 https://srijan-bytes.github.io/whiteboard/public/index.html
 Hi srijan I am Archit what's up?????
+# whiteboard
+https://srijan-bytes.github.io/whiteboard/public/index.html
+Hi srijan I am Archit what's up?????
+
+
+Hi amit singh bundela
+Hi srijan saxena
+
+Door sign to the offices of Magiboards at The Cut in Waterloo, London, in 1966. Made of enameled steel
+Whiteboards became commercially available in the early 1960s, but did not become widely used until 30 years later. Early whiteboards needed to be wiped with a damp cloth and markers had a tendency to leave marks behind, even after erasing the board.[2][3] Dry-erase markers for whiteboards were invented in 1975.[2]
+
+Whiteboards started becoming commonly used by businesses in the early 1990s.[4] They became more common in classrooms during the 1990s due to concerns over health problems in children with dust allergies and the potential for chalk dust to damage computers. By the late 1990s, about 21% of American classrooms had converted from chalkboards to whiteboards.
 
 
 A whiteboard (also known by the terms marker board, dry-erase board, dry-wipe board, and pen-board) is a glossy, usually white surface for making non-permanent markings (an evolved version of the blackboard). Whiteboards are analogous to blackboards, but with a smoother surface allowing rapid marking and erasing of markings on their surface. The popularity of whiteboards increased rapidly in the mid-1990s and they have become a fixture in many offices, meeting rooms, school classrooms, and other work environments.

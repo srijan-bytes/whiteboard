@@ -10,3 +10,5 @@ Whiteboards became commercially available in the early 1960s, but did not become
 Whiteboards started becoming commonly used by businesses in the early 1990s.[4] They became more common in classrooms during the 1990s due to concerns over health problems in children with dust allergies and the potential for chalk dust to damage computers. By the late 1990s, about 21% of American classrooms had converted from chalkboards to whiteboards.
 
 Thank you
+
+what are uou doing guys whay is this happening??? what is being happened???

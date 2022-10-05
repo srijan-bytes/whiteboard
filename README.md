@@ -1,4 +1,5 @@
 # whiteboard
+#hacktoberfest-accepted
 White Board is white. We can draw white things with white pen. I am purely racist,sexist,facist.
 The term whiteboard is also used metaphorically to refer to features of computer software applications that simulate whiteboards. Such "virtual tech whiteboards" allow one or more people to write or draw images on a simulated canvas. This is a common feature of many virtual meeting, collaboration, and instant messaging applications. The term whiteboard is also used to refer to interactive whiteboards.
 Two men have been credited with the invention of the whiteboard. The first is a Korean War veteran and photographer named Martin Heit and the other an enameled steel production company (Alliance) employee named Albert Stallion.[1][2]
